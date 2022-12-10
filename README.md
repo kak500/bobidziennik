@@ -7,7 +7,7 @@ php artisan migrate
 
 php artisan db:seed
 
-admin@mail.com
+<p>admin@mail.com</p>
 admin
 
 
